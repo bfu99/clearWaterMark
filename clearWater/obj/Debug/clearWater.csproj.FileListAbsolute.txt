@@ -1,0 +1,6 @@
+E:\it\github\bfu99\clearWaterMark\clearWater\bin\clearWater.dll.config
+E:\it\github\bfu99\clearWaterMark\clearWater\bin\clearWater.dll
+E:\it\github\bfu99\clearWaterMark\clearWater\bin\clearWater.pdb
+E:\it\github\bfu99\clearWaterMark\clearWater\obj\Debug\clearWater.csprojAssemblyReference.cache
+E:\it\github\bfu99\clearWaterMark\clearWater\obj\Debug\clearWater.dll
+E:\it\github\bfu99\clearWaterMark\clearWater\obj\Debug\clearWater.pdb
