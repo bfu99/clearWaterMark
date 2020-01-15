@@ -1,0 +1,8 @@
+E:\it\github\bfu99\clearWaterMark\douyinClear\bin\Debug\douyinClear.exe
+E:\it\github\bfu99\clearWaterMark\douyinClear\bin\Debug\douyinClear.pdb
+E:\it\github\bfu99\clearWaterMark\douyinClear\obj\Debug\douyinClear.Form1.resources
+E:\it\github\bfu99\clearWaterMark\douyinClear\obj\Debug\douyinClear.Properties.Resources.resources
+E:\it\github\bfu99\clearWaterMark\douyinClear\obj\Debug\douyinClear.csproj.GenerateResource.cache
+E:\it\github\bfu99\clearWaterMark\douyinClear\obj\Debug\douyinClear.exe
+E:\it\github\bfu99\clearWaterMark\douyinClear\obj\Debug\douyinClear.pdb
+E:\it\github\bfu99\clearWaterMark\douyinClear\obj\Debug\douyinClear.csprojAssemblyReference.cache
